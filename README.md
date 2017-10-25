@@ -1,2 +1,2 @@
 # ThProject
-This Program is TohoProject Shoot Game(ThProject 11).
+This Program is TohoProject Shooting Game(ThProject 11).
